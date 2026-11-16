@@ -1,0 +1,8 @@
+{
+  "name": "Remix Blanko Surat Perintah A4 — Polsek Semarang Selatan",
+  "description": "Aplikasi form isian blanko Surat Perintah berformat A4 dengan teks tetap hitam dan kolom isian hijau siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
